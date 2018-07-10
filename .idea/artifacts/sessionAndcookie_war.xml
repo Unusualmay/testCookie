@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sessionAndcookie:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sessionAndcookie.war">
+      <element id="artifact" artifact-name="sessionAndcookie:war exploded" />
+    </root>
+  </artifact>
+</component>
